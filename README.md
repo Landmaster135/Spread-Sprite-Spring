@@ -11,3 +11,13 @@
 ##### - &nbsp; '.gs' &nbsp;: for Google Apps Script on Google Spreadsheet
 
 ***
+
+# Modules
+
+## [`20220826_displayTime.bas`](./20220826_displayTime.bas)
+
+Example
+
+<img width="50%" alt="" src="./img/20220826_01-01.jpg">
+
+<img width="50%" alt="" src="./img/20220826_01-02.jpg">
