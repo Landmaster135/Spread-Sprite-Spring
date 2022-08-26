@@ -18,7 +18,7 @@
 
 ## [`20220826_displayTime.bas`](./20220826_displayTime.bas)
 
-Example
+### Example
 
 <img width="50%" alt="" src="./img/20220826_01-01.jpg">
 
