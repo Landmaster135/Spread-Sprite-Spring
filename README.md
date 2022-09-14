@@ -1,6 +1,6 @@
 # Spread-Sprite-Spring
 
-<img width="30%" alt="logo" src="./img/01-01_logo.png">
+<img width="20%" alt="logo" src="./img/01-01_logo.png">
 
 ##### This repogitory has memorandum of codes for Excel and Spreadsheet
 
